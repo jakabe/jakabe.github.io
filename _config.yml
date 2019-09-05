@@ -1,0 +1,21 @@
+title: Jacob Wenger # your name (or website title) here
+logo: "/images/Fishing Jacob.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Great Guy
+  <br>
+  Amateur Front End Developer 
+  <br>
+  -Java
+  <br>
+  -Processing 
+  <br>
+  -Python
+  <br>
+  -Arduino
+  
+  <!--
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  //-->
+  <br><br>
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
