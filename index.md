@@ -1,5 +1,8 @@
 ## Profile
 
+<script language="javascript">
+alert("Hi there, and welcome.")
+  
 ---
 
 ### Who am I?
