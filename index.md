@@ -23,10 +23,9 @@
 - [Oliver 2.0 WIP](http://example.com/)
   <img src="images/Oliver 2.jpg?raw=true"/>
   
-- [JavaScript Projects WIP](http://example.com/)
+- [JavaScript Projects WIP](https://jakabe.github.io/StickyParticles/)
   
-- [3D Printer WIP](http://example.com/)
-
+- 
 
 ---
 
