@@ -23,7 +23,7 @@
 - [Oliver 2.0 WIP](http://example.com/)
   <img src="images/Oliver 2.jpg?raw=true"/>
   
-- [JavaScript Projects WIP]
+### JavaScript Projects
 - [Sticky Particles](https://jakabe.github.io/StickyParticles/)
 - [Vine Js](https://jakabe.github.io/VineJs/)
 - [Buzzing Bugs](https://jakabe.github.io/BuzzingBugs/)
