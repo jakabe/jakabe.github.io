@@ -23,9 +23,10 @@
 - [Oliver 2.0 WIP](http://example.com/)
   <img src="images/Oliver 2.jpg?raw=true"/>
   
-- [JavaScript Projects WIP](https://jakabe.github.io/StickyParticles/)
-  
-- 
+- [JavaScript Projects WIP]
+- [Sticky Particles](https://jakabe.github.io/StickyParticles/)
+- [Tree]()
+- [Buzzing Bugs](https://jakabe.github.io/BuzzingBugs/)
 
 ---
 
