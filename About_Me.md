@@ -4,10 +4,10 @@
 
 ### Interests 
 
-[Active Living](/Active_Living_Page)
-<img src="images/Hiking Jacob.jpg?raw=true"/>
+[Programing](/Active_Living_Page)
 
-[Microgreens and Gardening](/Plants)
+
+[Gardening](/Plants)
 <img src="images/Graden Jacob.jpg?raw=true"/>
 
 ---
