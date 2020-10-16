@@ -4,7 +4,6 @@
 
 ### Interests 
 
-[Programing](/Active_Living_Page)
 
 
 [Gardening](/Plants)
