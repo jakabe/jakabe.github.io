@@ -4,9 +4,8 @@
   
 ---
 
-### Who am I?
-[About Me](/About_Me)
-<img src="images/Jogging Jacob.jpg?raw=true"/>
+
+
 
 ---
 
@@ -20,7 +19,7 @@
 
 ### Current Projects
 
-- [Oliver 2.0 WIP](http://example.com/)
+- [Check Out My Blog](https://jakabe.github.io/Blog/)
   <img src="images/Oliver 2.jpg?raw=true"/>
   
 
