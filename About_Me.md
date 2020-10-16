@@ -6,7 +6,7 @@
 
 
 
-[Gardening](/Plants)
+[Gardening]
 <img src="images/Graden Jacob.jpg?raw=true"/>
 
 ---
